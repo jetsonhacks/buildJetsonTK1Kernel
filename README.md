@@ -1,4 +1,6 @@
 # buildJetsonTK1Kernel
+This repository has been archived.
+
 Scripts to help build the kernel and modules on the Jetson TK1
 
 These scripts are for building starting from a fresh flash of L4T 21.4 on a NVIDIA Jetson TK1. 
